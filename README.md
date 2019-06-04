@@ -1,2 +1,2 @@
-# Mukund-SK-Webpage1.github.io
+# Mukund-SK.github.io
 First Webpage
